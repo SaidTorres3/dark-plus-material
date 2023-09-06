@@ -18,15 +18,15 @@ VSCode update -> mapping (1 VSCode color => 1 Material color) -> Dark+ Material 
 
 ### JavaScript
 
-![JavaScript example](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/javascript.png)
+![JavaScript example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/javascript.png)
 
 ### LESS
 
-![LESS example](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/less.png)
+![LESS example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/less.png)
 
 ### TypeScript
 
-![TypeScript example](https://raw.githubusercontent.com/vangware/dark-plus-material/main/screenshots/typescript.png)
+![TypeScript example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/typescript.png)
 
 ## Installing
 
