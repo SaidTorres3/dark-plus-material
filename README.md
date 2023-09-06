@@ -1,6 +1,7 @@
 # Dark+ Material
 
-![Dark+ Material logo](https://i.imgur.com/dbU1a3i.png)
+## ⚡ FORK OF [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) AT VERSION 2.4.4 ⚡
+  This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme, but improving the selection color in order to be able to see them.
 
 ## Reason behind this
 
