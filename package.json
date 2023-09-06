@@ -1,5 +1,5 @@
 {
-	"name": "dark-plus-material",
+	"name": "dark-plus-material-saidtorres3",
 	"description": "The default Dark+ Theme, with material palette and always up to date",
 	"version": "2.5.0",
 	"author": {
@@ -14,7 +14,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Dark+ Material",
+				"label": "Dark+ Material - SaidTorres3",
 				"uiTheme": "vs-dark",
 				"path": "./dark-plus-material.json"
 			}
@@ -43,7 +43,7 @@
 		"ts-node": "^10.2.1",
 		"typescript": "^4.3.5"
 	},
-	"displayName": "Dark+ Material",
+	"displayName": "Dark+ Material - SaidTorres3",
 	"engines": {
 		"vscode": "*"
 	},

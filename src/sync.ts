@@ -90,11 +90,10 @@ Promise.all([
 				) => ({
 					...colors,
 					[key]: colorMap[value]
-						? `${colorMap[value]}${
-								opacity
-									? opacity.padEnd(2, "0").toUpperCase()
-									: ""
-						  }`
+						? `${colorMap[value]}${opacity
+							? opacity.padEnd(2, "0").toUpperCase()
+							: ""
+						}`
 						: `${value}[INVALID:${closestMaterial(value)}]`
 				}),
 				{}
@@ -106,7 +105,7 @@ Promise.all([
 	.then(({ colors, tokenColors }) => ({
 		$schema: "vscode://schemas/color-theme",
 		colors,
-		name: "Dark+ Material",
+		name: "Dark+ Material - SaidTorres3",
 		tokenColors
 	}))
 	.then(theme =>

@@ -1,7 +1,8 @@
-# Dark+ Material
+# Dark+ Material - SaidTorres3
 
 ## ⚡ FORK OF [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) AT VERSION 2.4.4 ⚡
-  This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme, but improving the selection color in order to be able to see them.
+
+This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme, but improving the selection color in order to be able to see them.
 
 ## Reason behind this
 
@@ -39,5 +40,5 @@ ext install dark-plus-material
 
 ## Recommended Plugins and settings
 
--   [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) (by [Philipp Kief](https://github.com/PKief)): Beautiful icon theme that looks awesome with this theme.
--   [FiraCode](https://github.com/tonsky/FiraCode) (by [Nikita Prokopov](https://github.com/tonsky)): The best code ligature font I found, used in the screenshots.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) (by [Philipp Kief](https://github.com/PKief)): Beautiful icon theme that looks awesome with this theme.
+- [FiraCode](https://github.com/tonsky/FiraCode) (by [Nikita Prokopov](https://github.com/tonsky)): The best code ligature font I found, used in the screenshots.
