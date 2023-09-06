@@ -35,7 +35,7 @@ VSCode update -> mapping (1 VSCode color => 1 Material color) -> Dark+ Material 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash
-ext install dark-plus-material
+ext install dark-plus-material-saidtorres3
 ```
 
 ## Recommended Plugins and settings
