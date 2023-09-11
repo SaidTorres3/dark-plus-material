@@ -1199,6 +1199,18 @@
       "settings": {
         "foreground": "#607D8B"
       }
-    }
+    },
+    {
+      "scope": "source.python",
+      "settings": {
+        "foreground": "#ccc"
+      }
+    },
+    {
+      "scope": "meta.function-call.arguments.python",
+      "settings": {
+        "foreground": "#00BCD4"
+      }
+    },
   ]
 }
