@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "semanticHighlighting": true,
   "colors": {
     "activityBar.background": "#424242",
     "activityBar.dropBorder": "#FFFFFF",
