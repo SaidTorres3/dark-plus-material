@@ -1,20 +1,34 @@
 # Dark+ Material - SaidTorres3
 
-## ⚡ FORK OF [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) AT VERSION 2.4.4 ⚡
+## ⚡ FORK OF [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) AT VERSION 2.4.4 WITH IMPROVEMENTS ⚡
 
-This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme, but improving the selection color in order to be able to see them.
+This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme, but with some improvements:
 
-## Reason behind this
+### Highlighting:
 
-I really love the default Dark+ Theme that comes with Visual Studio Code, but also love the Material Design Palette. The thing is I didn't found a good material theme (the coloring is always ugly for my taste). So I made this theme that implements the Material Design Palette in the Dark+ theme that comes with Visual Studio Code.
+In some scenarios, it is hard to see the highlighted text, so I changed the colors to be able to see them better, here are some quick examples:
 
-## How is this theme updated?
+##### Old version:
 
-When VSCode makes an update, I run a script that takes the code from the VSCode repository, pipes it trough a mapping function and it results in the json file for this theme:
+![Old version](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-old.png)
+![Old version 2](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-2-old.png)
 
-```plain
-VSCode update -> mapping (1 VSCode color => 1 Material color) -> Dark+ Material update.
-```
+##### My version:
+
+![My version](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-new.png)
+![My version 2](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-2-new.png)
+
+### Python support and more:
+
+This extension enables the semantic highlighting, so for example, python code would looks better than the old version:
+
+##### Old version:
+
+![Old version python](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/python-old.png)
+
+##### My version:
+
+![My version python](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/python-new.png)
 
 ## Screenshots
 
