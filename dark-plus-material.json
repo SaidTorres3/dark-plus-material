@@ -1218,5 +1218,11 @@
         "foreground": "#FFEB3B"
       }
     },
+    {
+      "scope": "support.function.builtin.python",
+      "settings": {
+        "foreground": "#009600"
+      }
+    }
   ]
 }
