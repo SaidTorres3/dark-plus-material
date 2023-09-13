@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.7.0
+
+- Darker colors (let's take care of our eyes and environment)
+
 ## 2.6.4
 
 - Updated README.md and changelog
