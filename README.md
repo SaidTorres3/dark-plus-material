@@ -2,33 +2,7 @@
 
 ## ⚡ FORK OF [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) AT VERSION 2.4.4 WITH IMPROVEMENTS ⚡
 
-This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme, but with some improvements:
-
-### Highlighting:
-
-In some scenarios, it is hard to see the highlighted text, so I changed the colors to be able to see them better, here are some quick examples:
-
-##### Old version:
-
-![Old version](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-old.png)
-![Old version 2](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-2-old.png)
-
-##### My version:
-
-![My version](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-new.png)
-![My version 2](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/highlighting-example-2-new.png)
-
-### Python support and more:
-
-This extension enables the semantic highlighting, so for example, python code would looks better than the old version:
-
-##### Old version:
-
-![Old version python](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/python-old.png)
-
-##### My version:
-
-![My version python](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/python-new.png)
+This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/saidtorres3/dark-plus-material). Keeps the 2.4 versión of the original theme with some little changes/improvements:
 
 ## Screenshots
 
@@ -36,13 +10,41 @@ This extension enables the semantic highlighting, so for example, python code wo
 
 ![JavaScript example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/javascript.png)
 
-### LESS
+### HTML/CSS
 
-![LESS example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/less.png)
+![LESS example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/html.png)
 
 ### TypeScript
 
 ![TypeScript example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/typescript.png)
+
+### Python
+
+![Python example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/python.png)
+
+### C++
+
+![C++ example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/cpp.png)
+
+### GO
+
+![GO example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/go.png)
+
+### Java
+
+![Java example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/java.png)
+
+### Ruby
+
+![Ruby example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/ruby.png)
+
+### SQL
+
+![SQL example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/sql.png)
+
+### Plain Text
+
+![Plain Text example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/txt.png)
 
 ## Installing
 
@@ -51,8 +53,3 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ```bash
 ext install dark-plus-material-saidtorres3
 ```
-
-## Recommended Plugins and settings
-
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) (by [Philipp Kief](https://github.com/PKief)): Beautiful icon theme that looks awesome with this theme.
-- [FiraCode](https://github.com/tonsky/FiraCode) (by [Nikita Prokopov](https://github.com/tonsky)): The best code ligature font I found, used in the screenshots.

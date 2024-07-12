@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.7.2
+- Whiter default plain-text color.
+- Updated README.md and screenshots.
+
 ## 2.7.1
 
 - Darker terminal

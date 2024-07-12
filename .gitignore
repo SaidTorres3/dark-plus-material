@@ -160,3 +160,6 @@ esm
 # We use only pnpm now
 yarn.lock
 package-lock.json
+
+# Extension build
+*.vsix
