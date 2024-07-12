@@ -46,6 +46,10 @@ This fork can be finded in [saidtorres3/dark-plus-material](https://github.com/s
 
 ![Plain Text example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/txt.png)
 
+## Selection/Finding showcase:
+
+![Selection/Finding showcase](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/selection.gif)
+
 ## Installing
 
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.

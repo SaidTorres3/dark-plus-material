@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.7.3
+- Updated README.md and added gif.
+- Fixed dependencies issues.
+
 ## 2.7.2
 - Whiter default plain-text color.
 - Updated README.md and screenshots.

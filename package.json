@@ -1,7 +1,7 @@
 {
 	"name": "dark-plus-material-saidtorres3",
 	"description": "The default Dark+ Theme, with material palette and always up to date",
-	"version": "2.7.2",
+	"version": "2.7.3",
 	"author": {
 		"email": "sesaid17@hotmail.com",
 		"name": "SaidTorres3",
@@ -27,7 +27,6 @@
 		"@types/prettier": "^2.3.2",
 		"@typescript-eslint/eslint-plugin": "^4.29.2",
 		"@typescript-eslint/parser": "^4.29.2",
-		"@vangware/base": "^5.2.2",
 		"@vangware/utils": "^7.0.5",
 		"color": "^4.0.1",
 		"eslint": "^7.32.0",
@@ -51,7 +50,7 @@
 		"color": "#212121",
 		"theme": "dark"
 	},
-	"homepage": "https://github.com/vangware/dark-plus-material",
+	"homepage": "https://github.com/SaidTorres3/dark-plus-material",
 	"icon": "assets/icon.png",
 	"keywords": [
 		"colorful",
