@@ -41,7 +41,7 @@
     "editor.findMatchBackground": "#ffff0030",
     "editor.findMatchBorder": "#ff0000",
     "editor.findRangeHighlightBackground": "#18181866",
-    "editor.foreground": "#adadad",
+    "editor.foreground": "#ADADAD",
     "editor.hoverHighlightBackground": "#3F51B540",
     "editor.inactiveSelectionBackground": "#3F51B5",
     "editor.lineHighlightBorder": "#9fced11f",
@@ -52,7 +52,7 @@
     "editor.symbolHighlightBackground": "#FF572255",
     "editorBracketMatch.background": "#4CAF501A",
     "editorBracketMatch.border": "#757575",
-    "editorCodeLens.foreground": "#9E9E9E",
+    "editorCodeLens.foreground": "#ADADAD",
     "editorCursor.foreground": "#FFFFFF",
     "editorGhostText.foreground": "#FFFFFF56",
     "editorGroup.border": "#383838",
@@ -88,7 +88,7 @@
     "editorSuggestWidget.background": "#181818",
     "editorSuggestWidget.border": "#383838",
     "editorSuggestWidget.focusHighlightForeground": "#2196F3",
-    "editorSuggestWidget.foreground": "#9E9E9E",
+    "editorSuggestWidget.foreground": "#ADADAD",
     "editorSuggestWidget.highlightForeground": "#03A9F4",
     "editorSuggestWidget.selectedBackground": "#3F51B5",
     "editorSuggestWidget.selectedForeground": "#FFFFFF",
@@ -130,7 +130,7 @@
     "menu.foreground": "#EEEEEE",
     "menu.selectionBackground": "#3F51B5",
     "menu.selectionForeground": "#FFFFFF",
-    "menu.separatorBackground": "#9E9E9E",
+    "menu.separatorBackground": "#ADADAD",
     "menubar.selectionBackground": "#FFFFFF1A",
     "menubar.selectionForeground": "#BDBDBD",
     "merge.commonContentBackground": "#383838",
@@ -197,7 +197,7 @@
     "tab.inactiveBackground": "#181818",
     "tab.inactiveForeground": "#FFFFFF80",
     "tab.inactiveModifiedBorder": "#03A9F480",
-    "tab.lastPinnedBorder": "#9E9E9E",
+    "tab.lastPinnedBorder": "#ADADAD",
     "tab.unfocusedActiveForeground": "#FFFFFF80",
     "tab.unfocusedActiveModifiedBorder": "#03A9F480",
     "tab.unfocusedInactiveBackground": "#181818",
@@ -231,13 +231,13 @@
     {
       "scope": "meta.embedded",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {
       "scope": "source.groovy.embedded",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {
@@ -551,7 +551,7 @@
     {
       "scope": "meta.template.expression",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {
@@ -605,7 +605,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {
@@ -701,19 +701,19 @@
     {
       "scope": "storage.modifier.import.java",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {
       "scope": "variable.language.wildcard.java",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {
       "scope": "storage.modifier.package.java",
       "settings": {
-        "foreground": "#9E9E9E"
+        "foreground": "#ADADAD"
       }
     },
     {

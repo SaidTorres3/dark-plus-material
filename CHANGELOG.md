@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.7.4
+- Updated README.md
+- Expanded whiter font to all contexts.
+
 ## 2.7.3
 - Updated README.md and added gif.
 - Fixed dependencies issues.
