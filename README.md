@@ -2,9 +2,9 @@
 
 ## 🚀 Overview
 
-Dark+ Material - SaidTorres3 is an enhanced fork of the popular [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) theme (version 2.4.4) for Visual Studio Code. This fork introduces subtle yet impactful improvements to elevate your coding experience.
+"Dark+ Material - SaidTorres3" is an enhanced fork of the popular [vangware/dark-plus-material](https://github.com/vangware/dark-plus-material) theme (version 2.4.4) for Visual Studio Code. This fork introduces subtle yet impactful improvements to elevate your coding experience.
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-saidtorres3%2Fdark--plus--material-blue?style=flat-square&logo=github)](https://github.com/saidtorres3/dark-plus-material)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-saidtorres3%2Fdark--plus--material-blue?style=flat-square&logo=github)](https://github.com/saidtorres3/dark-plus-material) [![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/saidtorres3.dark-plus-material-saidtorres3?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=saidtorres3.dark-plus-material-saidtorres3) [![VS Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/saidtorres3.dark-plus-material-saidtorres3?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=saidtorres3.dark-plus-material-saidtorres3)
 
 ## ✨ Features
 
@@ -17,16 +17,13 @@ Dark+ Material - SaidTorres3 is an enhanced fork of the popular [vangware/dark-p
 
 Explore how Dark+ Material - SaidTorres3 enhances your coding experience across various languages:
 
-<details>
-<summary>Click to expand language previews</summary>
+### HTML/CSS
+
+![HTML/CSS example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/html.png)
 
 ### JavaScript
 
 ![JavaScript example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/javascript.png)
-
-### HTML/CSS
-
-![HTML/CSS example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/html.png)
 
 ### TypeScript
 
@@ -59,8 +56,6 @@ Explore how Dark+ Material - SaidTorres3 enhances your coding experience across 
 ### Plain Text
 
 ![Plain Text example](https://raw.githubusercontent.com/saidtorres3/dark-plus-material/main/screenshots/txt.png)
-
-</details>
 
 ## 🔍 Selection and Finding Showcase
 

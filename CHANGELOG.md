@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.7.5
+- Updated README.md
+
 ## 2.7.4
 - Updated README.md
 - Expanded whiter font to all contexts.
